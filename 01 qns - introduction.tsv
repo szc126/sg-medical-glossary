@@ -1,19 +1,163 @@
 <h2>Introduction</h2>
 
 <h3>Greetings</h3>
-How do you do?	你好	ní hâo	Apa khabar?	Lei hou ma?	Ler ho bo?
-Good morning	早安	zâo än	Selamat pagi	Zou sun	Za
-Good afternoon	午安	wû än	Selamat tengah hari	Um on	-
-Good evening	晚安	wân än	Selamat petang	Mon on	-
-Good night	晚安	wân än	Selamat malam	Zou tao	-
-May I speak to you for a while?	我能跟你讲话吗?	wô néng gën nî jiâng huã mä 	Boleh saya tanya sikit?	Ngor hor yee tong lei gong gei goi ma?	Wah eh sai ga ler gong wei bue?
-Are you feeling better today?	今天好点了没有?	jïn tiän hâo diân lè méi yôu	Hari ini berasa lebih baik?	Gum yat gork tak deem yong? Hou di ma?	Kian lid ka ho bo?
+<dl>
+	<dt lang="en">How do you do?</dt>
+	<dd lang="cmn-Hans">你好</dd>
+	<dd lang="cmn-Latn_NEW">ní hâo</dd>
+	<dd lang="cmn-Latn_OLD">ní hâo</dd>
+	<dd lang="ms">Apa khabar?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Lei hou ma?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Ler ho bo?</dd>
+</dl>
+<dl>
+	<dt lang="en">Good morning</dt>
+	<dd lang="cmn-Hans">早安</dd>
+	<dd lang="cmn-Latn_NEW">zâo än</dd>
+	<dd lang="cmn-Latn_OLD">zâo än</dd>
+	<dd lang="ms">Selamat pagi</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Zou sun</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Za</dd>
+</dl>
+<dl>
+	<dt lang="en">Good afternoon</dt>
+	<dd lang="cmn-Hans">午安</dd>
+	<dd lang="cmn-Latn_NEW">wû än</dd>
+	<dd lang="cmn-Latn_OLD">wû än</dd>
+	<dd lang="ms">Selamat tengah hari</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Um on</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">-</dd>
+</dl>
+<dl>
+	<dt lang="en">Good evening</dt>
+	<dd lang="cmn-Hans">晚安</dd>
+	<dd lang="cmn-Latn_NEW">wân än</dd>
+	<dd lang="cmn-Latn_OLD">wân än</dd>
+	<dd lang="ms">Selamat petang</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Mon on</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">-</dd>
+</dl>
+<dl>
+	<dt lang="en">Good night</dt>
+	<dd lang="cmn-Hans">晚安</dd>
+	<dd lang="cmn-Latn_NEW">wân än</dd>
+	<dd lang="cmn-Latn_OLD">wân än</dd>
+	<dd lang="ms">Selamat malam</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Zou tao</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">-</dd>
+</dl>
+<dl>
+	<dt lang="en">May I speak to you for a while?</dt>
+	<dd lang="cmn-Hans">我能跟你讲话吗?</dd>
+	<dd lang="cmn-Latn_NEW">wô néng gën nî jiâng huã mä </dd>
+	<dd lang="cmn-Latn_OLD">wô néng gën nî jiâng huã mä </dd>
+	<dd lang="ms">Boleh saya tanya sikit?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Ngor hor yee tong lei gong gei goi ma?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Wah eh sai ga ler gong wei bue?</dd>
+</dl>
+<dl>
+	<dt lang="en">Are you feeling better today?</dt>
+	<dd lang="cmn-Hans">今天好点了没有?</dd>
+	<dd lang="cmn-Latn_NEW">jïn tiän hâo diân lè méi yôu</dd>
+	<dd lang="cmn-Latn_OLD">jïn tiän hâo diân lè méi yôu</dd>
+	<dd lang="ms">Hari ini berasa lebih baik?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Gum yat gork tak deem yong? Hou di ma?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kian lid ka ho bo?</dd>
+</dl>
 
 <h3>Find prinicipal symptoms</h3>
-What brought you here?	哪儿不舒服？	nâ êr bù shð fú 	Kenapa datang ke sini?	Yau mat ye si?	Ler si si mih dai ji?
-What makes you want to see a doctor?	你为什么要来看医生?	nî wèi shén mè yão lái kãn yï shëng	Kenapa datang jumpa doktor?	Wai mud ye si lei tai yee sun?	Ler an zua ai knua lo kun?
+<dl>
+	<dt lang="en">What brought you here?</dt>
+	<dd lang="cmn-Hans">哪儿不舒服？</dd>
+	<dd lang="cmn-Latn_NEW">nâ êr bù shð fú </dd>
+	<dd lang="cmn-Latn_OLD">nâ êr bù shð fú </dd>
+	<dd lang="ms">Kenapa datang ke sini?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Yau mat ye si?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Ler si si mih dai ji?</dd>
+</dl>
+<dl>
+	<dt lang="en">What makes you want to see a doctor?</dt>
+	<dd lang="cmn-Hans">你为什么要来看医生?</dd>
+	<dd lang="cmn-Latn_NEW">nî wèi shén mè yão lái kãn yï shëng</dd>
+	<dd lang="cmn-Latn_OLD">nî wèi shén mè yão lái kãn yï shëng</dd>
+	<dd lang="ms">Kenapa datang jumpa doktor?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Wai mud ye si lei tai yee sun?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Ler an zua ai knua lo kun?</dd>
+</dl>
 
 <h3>History of presenting illness</h3>
-How long have you been ill?	你病了多久?	nî bìng lè duö jiû 	Sejak bila sakit?	Beng jaw gay loi?	Pnua pnee lua koo liaw?
-When did this begin?	病几时开始?	bìng jî shí käi shî	Sejak bila sakit?	Kei si hoi chee?	Di si eh ah ni?
-When did you first notice anything wrong?	你几时发现有问题?	nî jî shí fä xiãn yôu wèn tí 	Sejak bila kamu sedar ada sakit?	Kei si fatt yin yau si?	Di si gam dio ga gi bo ho sei?
+<dl>
+	<dt lang="en">How long have you been ill?</dt>
+	<dd lang="cmn-Hans">你病了多久?</dd>
+	<dd lang="cmn-Latn_NEW">nî bìng lè duö jiû </dd>
+	<dd lang="cmn-Latn_OLD">nî bìng lè duö jiû </dd>
+	<dd lang="ms">Sejak bila sakit?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Beng jaw gay loi?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Pnua pnee lua koo liaw?</dd>
+</dl>
+<dl>
+	<dt lang="en">When did this begin?</dt>
+	<dd lang="cmn-Hans">病几时开始?</dd>
+	<dd lang="cmn-Latn_NEW">bìng jî shí käi shî</dd>
+	<dd lang="cmn-Latn_OLD">bìng jî shí käi shî</dd>
+	<dd lang="ms">Sejak bila sakit?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Kei si hoi chee?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Di si eh ah ni?</dd>
+</dl>
+<dl>
+	<dt lang="en">When did you first notice anything wrong?</dt>
+	<dd lang="cmn-Hans">你几时发现有问题?</dd>
+	<dd lang="cmn-Latn_NEW">nî jî shí fä xiãn yôu wèn tí </dd>
+	<dd lang="cmn-Latn_OLD">nî jî shí fä xiãn yôu wèn tí </dd>
+	<dd lang="ms">Sejak bila kamu sedar ada sakit?</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Kei si fatt yin yau si?</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Di si gam dio ga gi bo ho sei?</dd>
+</dl>

@@ -1,56 +1,596 @@
 <h2>Glossary - Medical Terms</h2>
 
 <h3>Symptoms</h3>
-Dizzy / Drowsy	头晕	tóu yðn	Pening / Mabuk	Tau Wan	Hin
-Headache	头痛	tóu tòng	Sakit Kepala	Tau Tung	Tao Tnia
-Blackout	晕倒	yðn dâo	Pitam / Pengsan	Wan Dei	Or Am
+<dl>
+	<dt lang="en">Dizzy / Drowsy</dt>
+	<dd lang="cmn-Hans">头晕</dd>
+	<dd lang="cmn-Latn_NEW">tóu yðn</dd>
+	<dd lang="cmn-Latn_OLD">tóu yðn</dd>
+	<dd lang="ms">Pening / Mabuk</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Tau Wan</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Hin</dd>
+</dl>
+<dl>
+	<dt lang="en">Headache</dt>
+	<dd lang="cmn-Hans">头痛</dd>
+	<dd lang="cmn-Latn_NEW">tóu tòng</dd>
+	<dd lang="cmn-Latn_OLD">tóu tòng</dd>
+	<dd lang="ms">Sakit Kepala</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Tau Tung</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tao Tnia</dd>
+</dl>
+<dl>
+	<dt lang="en">Blackout</dt>
+	<dd lang="cmn-Hans">晕倒</dd>
+	<dd lang="cmn-Latn_NEW">yðn dâo</dd>
+	<dd lang="cmn-Latn_OLD">yðn dâo</dd>
+	<dd lang="ms">Pitam / Pengsan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Wan Dei</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Or Am</dd>
+</dl>
 
-Stomachache	肚子痛	dù zî tòng	Sakit Perut	Wei Tung	Pud Dor Tnia
-Diarrhoea	拉肚子	lä dù zî	Cirit Birit	Or Tou	Lao Sai
-Constipation	便秘	biãn mì	Sembelit	Bin Bay	Pang Sai Pang Bue Chut
-Vomitting	呕吐	ôu tù	Muntah	Aw Tou	Tor
+<dl>
+	<dt lang="en">Stomachache</dt>
+	<dd lang="cmn-Hans">肚子痛</dd>
+	<dd lang="cmn-Latn_NEW">dù zî tòng</dd>
+	<dd lang="cmn-Latn_OLD">dù zî tòng</dd>
+	<dd lang="ms">Sakit Perut</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Wei Tung</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Pud Dor Tnia</dd>
+</dl>
+<dl>
+	<dt lang="en">Diarrhoea</dt>
+	<dd lang="cmn-Hans">拉肚子</dd>
+	<dd lang="cmn-Latn_NEW">lä dù zî</dd>
+	<dd lang="cmn-Latn_OLD">lä dù zî</dd>
+	<dd lang="ms">Cirit Birit</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Or Tou</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Lao Sai</dd>
+</dl>
+<dl>
+	<dt lang="en">Constipation</dt>
+	<dd lang="cmn-Hans">便秘</dd>
+	<dd lang="cmn-Latn_NEW">biãn mì</dd>
+	<dd lang="cmn-Latn_OLD">biãn mì</dd>
+	<dd lang="ms">Sembelit</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Bin Bay</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Pang Sai Pang Bue Chut</dd>
+</dl>
+<dl>
+	<dt lang="en">Vomitting</dt>
+	<dd lang="cmn-Hans">呕吐</dd>
+	<dd lang="cmn-Latn_NEW">ôu tù</dd>
+	<dd lang="cmn-Latn_OLD">ôu tù</dd>
+	<dd lang="ms">Muntah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Aw Tou</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tor</dd>
+</dl>
 
-Rashes	斑点	bän diân	Ruam / Gatal	Barn Dim	Hong Mor
-Swollen	肿	zhông	Bengkak	Zhung	Zeng
-Inflammation	发炎	fä yán	Bengkak	Fatt Yim	Huad Yam
+<dl>
+	<dt lang="en">Rashes</dt>
+	<dd lang="cmn-Hans">斑点</dd>
+	<dd lang="cmn-Latn_NEW">bän diân</dd>
+	<dd lang="cmn-Latn_OLD">bän diân</dd>
+	<dd lang="ms">Ruam / Gatal</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Barn Dim</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Hong Mor</dd>
+</dl>
+<dl>
+	<dt lang="en">Swollen</dt>
+	<dd lang="cmn-Hans">肿</dd>
+	<dd lang="cmn-Latn_NEW">zhông</dd>
+	<dd lang="cmn-Latn_OLD">zhông</dd>
+	<dd lang="ms">Bengkak</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Zhung</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Zeng</dd>
+</dl>
+<dl>
+	<dt lang="en">Inflammation</dt>
+	<dd lang="cmn-Hans">发炎</dd>
+	<dd lang="cmn-Latn_NEW">fä yán</dd>
+	<dd lang="cmn-Latn_OLD">fä yán</dd>
+	<dd lang="ms">Bengkak</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Fatt Yim</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Huad Yam</dd>
+</dl>
 
-Cough	咳嗽	ké sòu	Batuk	Katt	Ga Sau
-Cramps	抽筋	chöu jïn	Otot Kejang	Chou Gan	Kiu Guun
-Fracture	骨折	gû zhé	Patah Tulang	Guit Jit	Kuut Ji
-General Fatigue	累	lèi	Letih / Penat	Gui	Xian
-Nausea	作呕	zuò ôu	Senak / Macam Nak Muntah	Zork Ow	Ai Tor
-Unconscious	失去知觉	shï qù zhï jué	Pengsan	Sart Hoi Jee Kok	Hin Toh
-Dyspnoea	呼吸困难	hð xï kùn nán	Sesak Nafas	Foo Kup Kuan Nan	Chuan
+<dl>
+	<dt lang="en">Cough</dt>
+	<dd lang="cmn-Hans">咳嗽</dd>
+	<dd lang="cmn-Latn_NEW">ké sòu</dd>
+	<dd lang="cmn-Latn_OLD">ké sòu</dd>
+	<dd lang="ms">Batuk</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Katt</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Ga Sau</dd>
+</dl>
+<dl>
+	<dt lang="en">Cramps</dt>
+	<dd lang="cmn-Hans">抽筋</dd>
+	<dd lang="cmn-Latn_NEW">chöu jïn</dd>
+	<dd lang="cmn-Latn_OLD">chöu jïn</dd>
+	<dd lang="ms">Otot Kejang</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Chou Gan</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kiu Guun</dd>
+</dl>
+<dl>
+	<dt lang="en">Fracture</dt>
+	<dd lang="cmn-Hans">骨折</dd>
+	<dd lang="cmn-Latn_NEW">gû zhé</dd>
+	<dd lang="cmn-Latn_OLD">gû zhé</dd>
+	<dd lang="ms">Patah Tulang</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Guit Jit</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kuut Ji</dd>
+</dl>
+<dl>
+	<dt lang="en">General Fatigue</dt>
+	<dd lang="cmn-Hans">累</dd>
+	<dd lang="cmn-Latn_NEW">lèi</dd>
+	<dd lang="cmn-Latn_OLD">lèi</dd>
+	<dd lang="ms">Letih / Penat</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Gui</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Xian</dd>
+</dl>
+<dl>
+	<dt lang="en">Nausea</dt>
+	<dd lang="cmn-Hans">作呕</dd>
+	<dd lang="cmn-Latn_NEW">zuò ôu</dd>
+	<dd lang="cmn-Latn_OLD">zuò ôu</dd>
+	<dd lang="ms">Senak / Macam Nak Muntah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Zork Ow</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Ai Tor</dd>
+</dl>
+<dl>
+	<dt lang="en">Unconscious</dt>
+	<dd lang="cmn-Hans">失去知觉</dd>
+	<dd lang="cmn-Latn_NEW">shï qù zhï jué</dd>
+	<dd lang="cmn-Latn_OLD">shï qù zhï jué</dd>
+	<dd lang="ms">Pengsan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Sart Hoi Jee Kok</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Hin Toh</dd>
+</dl>
+<dl>
+	<dt lang="en">Dyspnoea</dt>
+	<dd lang="cmn-Hans">呼吸困难</dd>
+	<dd lang="cmn-Latn_NEW">hð xï kùn nán</dd>
+	<dd lang="cmn-Latn_OLD">hð xï kùn nán</dd>
+	<dd lang="ms">Sesak Nafas</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Foo Kup Kuan Nan</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Chuan</dd>
+</dl>
 
-Joint Pain	关节痛	guän jié tòng	Sengal	Guan Jit Tung	Kuh Tnia
-Sharp Pain	尖锐的痛	jiän ruì dè tòng	Pedih	Zim Tung	Jin Jiam Eh Tnia
-Pricking Pain	刺痛	cì tòng	-	Gut Tung	Zam Tuh Eh Tnia
+<dl>
+	<dt lang="en">Joint Pain</dt>
+	<dd lang="cmn-Hans">关节痛</dd>
+	<dd lang="cmn-Latn_NEW">guän jié tòng</dd>
+	<dd lang="cmn-Latn_OLD">guän jié tòng</dd>
+	<dd lang="ms">Sengal</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Guan Jit Tung</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kuh Tnia</dd>
+</dl>
+<dl>
+	<dt lang="en">Sharp Pain</dt>
+	<dd lang="cmn-Hans">尖锐的痛</dd>
+	<dd lang="cmn-Latn_NEW">jiän ruì dè tòng</dd>
+	<dd lang="cmn-Latn_OLD">jiän ruì dè tòng</dd>
+	<dd lang="ms">Pedih</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Zim Tung</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Jin Jiam Eh Tnia</dd>
+</dl>
+<dl>
+	<dt lang="en">Pricking Pain</dt>
+	<dd lang="cmn-Hans">刺痛</dd>
+	<dd lang="cmn-Latn_NEW">cì tòng</dd>
+	<dd lang="cmn-Latn_OLD">cì tòng</dd>
+	<dd lang="ms">-</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Gut Tung</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Zam Tuh Eh Tnia</dd>
+</dl>
 
 <h3>Specific Ailments</h3>
-Asthma	哮喘	xião chuân	Asma / Lelah	How Chun	Hei Goo
-Cancer	癌症	ái zhèng	Cancer / Barah	Arm Cheng	Gam Zeng / Cancer
-Chickenpox	水豆	shuî dòu	Cacar	Chut Sui Dow	Chut Zhui Dao
-Diabetes	糖尿病	táng nião bìng	Kencing Manis	Tong New Bang	Dnee Dio
-Heart Attack	心脏病	xïn zãng bìng	Sakit Jantung	Sum Zong Bang	Xim Zhong Pnee
-Hypertension	高血压	gäo xuè yä	Darah Tinggi	Huit Ngak Go	Huit Gnuai
-Leprosy	麻风	má fëng	Kusta	Ma Foong	Tai Koh
-Leukaemia	血癌	xuè ái	Leukaemia / Darah Putih	Bak Huit Bang	Huit Ai
-Measles	出麻	chð má 	Demam Campak	Chut Ma	Chut Piah
-Mumps	腮腺炎	säi xiãn yán	Beguk	Dai Gang Pow	Sne Hoon Ai / Tde Tow Peh 
-Stroke	中风	zhòng fëng	Angin Ahmar / Strok	Zhung Foong	Diong Hong
-Tuberculosis	肺痨	fèi láo	TB / Batuk Kering	Fai Low	Hwee Low
+<dl>
+	<dt lang="en">Asthma</dt>
+	<dd lang="cmn-Hans">哮喘</dd>
+	<dd lang="cmn-Latn_NEW">xião chuân</dd>
+	<dd lang="cmn-Latn_OLD">xião chuân</dd>
+	<dd lang="ms">Asma / Lelah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">How Chun</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Hei Goo</dd>
+</dl>
+<dl>
+	<dt lang="en">Cancer</dt>
+	<dd lang="cmn-Hans">癌症</dd>
+	<dd lang="cmn-Latn_NEW">ái zhèng</dd>
+	<dd lang="cmn-Latn_OLD">ái zhèng</dd>
+	<dd lang="ms">Cancer / Barah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Arm Cheng</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Gam Zeng / Cancer</dd>
+</dl>
+<dl>
+	<dt lang="en">Chickenpox</dt>
+	<dd lang="cmn-Hans">水豆</dd>
+	<dd lang="cmn-Latn_NEW">shuî dòu</dd>
+	<dd lang="cmn-Latn_OLD">shuî dòu</dd>
+	<dd lang="ms">Cacar</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Chut Sui Dow</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Chut Zhui Dao</dd>
+</dl>
+<dl>
+	<dt lang="en">Diabetes</dt>
+	<dd lang="cmn-Hans">糖尿病</dd>
+	<dd lang="cmn-Latn_NEW">táng nião bìng</dd>
+	<dd lang="cmn-Latn_OLD">táng nião bìng</dd>
+	<dd lang="ms">Kencing Manis</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Tong New Bang</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Dnee Dio</dd>
+</dl>
+<dl>
+	<dt lang="en">Heart Attack</dt>
+	<dd lang="cmn-Hans">心脏病</dd>
+	<dd lang="cmn-Latn_NEW">xïn zãng bìng</dd>
+	<dd lang="cmn-Latn_OLD">xïn zãng bìng</dd>
+	<dd lang="ms">Sakit Jantung</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Sum Zong Bang</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Xim Zhong Pnee</dd>
+</dl>
+<dl>
+	<dt lang="en">Hypertension</dt>
+	<dd lang="cmn-Hans">高血压</dd>
+	<dd lang="cmn-Latn_NEW">gäo xuè yä</dd>
+	<dd lang="cmn-Latn_OLD">gäo xuè yä</dd>
+	<dd lang="ms">Darah Tinggi</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Huit Ngak Go</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Huit Gnuai</dd>
+</dl>
+<dl>
+	<dt lang="en">Leprosy</dt>
+	<dd lang="cmn-Hans">麻风</dd>
+	<dd lang="cmn-Latn_NEW">má fëng</dd>
+	<dd lang="cmn-Latn_OLD">má fëng</dd>
+	<dd lang="ms">Kusta</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Ma Foong</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tai Koh</dd>
+</dl>
+<dl>
+	<dt lang="en">Leukaemia</dt>
+	<dd lang="cmn-Hans">血癌</dd>
+	<dd lang="cmn-Latn_NEW">xuè ái</dd>
+	<dd lang="cmn-Latn_OLD">xuè ái</dd>
+	<dd lang="ms">Leukaemia / Darah Putih</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Bak Huit Bang</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Huit Ai</dd>
+</dl>
+<dl>
+	<dt lang="en">Measles</dt>
+	<dd lang="cmn-Hans">出麻</dd>
+	<dd lang="cmn-Latn_NEW">chð má </dd>
+	<dd lang="cmn-Latn_OLD">chð má </dd>
+	<dd lang="ms">Demam Campak</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Chut Ma</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Chut Piah</dd>
+</dl>
+<dl>
+	<dt lang="en">Mumps</dt>
+	<dd lang="cmn-Hans">腮腺炎</dd>
+	<dd lang="cmn-Latn_NEW">säi xiãn yán</dd>
+	<dd lang="cmn-Latn_OLD">säi xiãn yán</dd>
+	<dd lang="ms">Beguk</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Dai Gang Pow</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Sne Hoon Ai / Tde Tow Peh </dd>
+</dl>
+<dl>
+	<dt lang="en">Stroke</dt>
+	<dd lang="cmn-Hans">中风</dd>
+	<dd lang="cmn-Latn_NEW">zhòng fëng</dd>
+	<dd lang="cmn-Latn_OLD">zhòng fëng</dd>
+	<dd lang="ms">Angin Ahmar / Strok</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Zhung Foong</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Diong Hong</dd>
+</dl>
+<dl>
+	<dt lang="en">Tuberculosis</dt>
+	<dd lang="cmn-Hans">肺痨</dd>
+	<dd lang="cmn-Latn_NEW">fèi láo</dd>
+	<dd lang="cmn-Latn_OLD">fèi láo</dd>
+	<dd lang="ms">TB / Batuk Kering</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Fai Low</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Hwee Low</dd>
+</dl>
 
 <h3>Medical Procedures</h3>
-Change Dressings	换纱布	huãn shä bù	Tukar Balutan	Wound Sa Bow	Wah Suah Bor
-Stitch	缝针	féng zhën	Jahitan	Fong Zum	Tnee Zam
-Remove Stitch	拆线	chäi xiãn	Buka Jahitan	Cak Sin	Tiah Snua
-Operation	开刀	käi däo	Pembedahan	Hoi Dou	Kui Doh
-Operate	开刀	käi däo	Dibedah	Hoi Dou	Kui Doh
-Amputate	截肢	jié zhï 	Potong / Kudung	Jit Ji	Kua Ka (leg) / Kua Chiu (arm)
-Draining	排水	pái shuî	Keluarkan	Pai Soi	Tiu Jwee
-Injection	打针	dâ zhën	Injection / Suntikan	Da Zum	Pa Zam
-Medicate	吃药	chï yão	Ubati	Sek York	Zia Yeoh
-Transfusion	输血	shð xiê	Pemindahan Darah	She Huit	Jip Hue
-Draw Blood	抽血	chöu xiê	Ambil Darah	Chow Huit	Tiu Hue
-Dialysis	洗肾	xî shèn	Dialysis	Sai Son	Shue Hui
-Transplant	换肾/心	huãn shèn / xïn	Pemindahan Organ	Yi Chek Sun / Sum (kidney/heart)	Wah ___(organ)
+<dl>
+	<dt lang="en">Change Dressings</dt>
+	<dd lang="cmn-Hans">换纱布</dd>
+	<dd lang="cmn-Latn_NEW">huãn shä bù</dd>
+	<dd lang="cmn-Latn_OLD">huãn shä bù</dd>
+	<dd lang="ms">Tukar Balutan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Wound Sa Bow</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Wah Suah Bor</dd>
+</dl>
+<dl>
+	<dt lang="en">Stitch</dt>
+	<dd lang="cmn-Hans">缝针</dd>
+	<dd lang="cmn-Latn_NEW">féng zhën</dd>
+	<dd lang="cmn-Latn_OLD">féng zhën</dd>
+	<dd lang="ms">Jahitan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Fong Zum</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tnee Zam</dd>
+</dl>
+<dl>
+	<dt lang="en">Remove Stitch</dt>
+	<dd lang="cmn-Hans">拆线</dd>
+	<dd lang="cmn-Latn_NEW">chäi xiãn</dd>
+	<dd lang="cmn-Latn_OLD">chäi xiãn</dd>
+	<dd lang="ms">Buka Jahitan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Cak Sin</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tiah Snua</dd>
+</dl>
+<dl>
+	<dt lang="en">Operation</dt>
+	<dd lang="cmn-Hans">开刀</dd>
+	<dd lang="cmn-Latn_NEW">käi däo</dd>
+	<dd lang="cmn-Latn_OLD">käi däo</dd>
+	<dd lang="ms">Pembedahan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Hoi Dou</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kui Doh</dd>
+</dl>
+<dl>
+	<dt lang="en">Operate</dt>
+	<dd lang="cmn-Hans">开刀</dd>
+	<dd lang="cmn-Latn_NEW">käi däo</dd>
+	<dd lang="cmn-Latn_OLD">käi däo</dd>
+	<dd lang="ms">Dibedah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Hoi Dou</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kui Doh</dd>
+</dl>
+<dl>
+	<dt lang="en">Amputate</dt>
+	<dd lang="cmn-Hans">截肢</dd>
+	<dd lang="cmn-Latn_NEW">jié zhï </dd>
+	<dd lang="cmn-Latn_OLD">jié zhï </dd>
+	<dd lang="ms">Potong / Kudung</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Jit Ji</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Kua Ka (leg) / Kua Chiu (arm)</dd>
+</dl>
+<dl>
+	<dt lang="en">Draining</dt>
+	<dd lang="cmn-Hans">排水</dd>
+	<dd lang="cmn-Latn_NEW">pái shuî</dd>
+	<dd lang="cmn-Latn_OLD">pái shuî</dd>
+	<dd lang="ms">Keluarkan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Pai Soi</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tiu Jwee</dd>
+</dl>
+<dl>
+	<dt lang="en">Injection</dt>
+	<dd lang="cmn-Hans">打针</dd>
+	<dd lang="cmn-Latn_NEW">dâ zhën</dd>
+	<dd lang="cmn-Latn_OLD">dâ zhën</dd>
+	<dd lang="ms">Injection / Suntikan</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Da Zum</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Pa Zam</dd>
+</dl>
+<dl>
+	<dt lang="en">Medicate</dt>
+	<dd lang="cmn-Hans">吃药</dd>
+	<dd lang="cmn-Latn_NEW">chï yão</dd>
+	<dd lang="cmn-Latn_OLD">chï yão</dd>
+	<dd lang="ms">Ubati</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Sek York</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Zia Yeoh</dd>
+</dl>
+<dl>
+	<dt lang="en">Transfusion</dt>
+	<dd lang="cmn-Hans">输血</dd>
+	<dd lang="cmn-Latn_NEW">shð xiê</dd>
+	<dd lang="cmn-Latn_OLD">shð xiê</dd>
+	<dd lang="ms">Pemindahan Darah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">She Huit</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Jip Hue</dd>
+</dl>
+<dl>
+	<dt lang="en">Draw Blood</dt>
+	<dd lang="cmn-Hans">抽血</dd>
+	<dd lang="cmn-Latn_NEW">chöu xiê</dd>
+	<dd lang="cmn-Latn_OLD">chöu xiê</dd>
+	<dd lang="ms">Ambil Darah</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Chow Huit</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Tiu Hue</dd>
+</dl>
+<dl>
+	<dt lang="en">Dialysis</dt>
+	<dd lang="cmn-Hans">洗肾</dd>
+	<dd lang="cmn-Latn_NEW">xî shèn</dd>
+	<dd lang="cmn-Latn_OLD">xî shèn</dd>
+	<dd lang="ms">Dialysis</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Sai Son</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Shue Hui</dd>
+</dl>
+<dl>
+	<dt lang="en">Transplant</dt>
+	<dd lang="cmn-Hans">换肾/心</dd>
+	<dd lang="cmn-Latn_NEW">huãn shèn / xïn</dd>
+	<dd lang="cmn-Latn_OLD">huãn shèn / xïn</dd>
+	<dd lang="ms">Pemindahan Organ</dd>
+	<dd lang="yue-Hant"></dd>
+	<dd lang="yue-Latn_NEW"></dd>
+	<dd lang="yue-Latn_OLD">Yi Chek Sun / Sum (kidney/heart)</dd>
+	<dd lang="nan-Hant"></dd>
+	<dd lang="nan-Latn_NEW"></dd>
+	<dd lang="nan-Latn_OLD">Wah ___(organ)</dd>
+</dl>
