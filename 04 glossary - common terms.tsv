@@ -1,7 +1,7 @@
-Glossary - Common terms
+<h2>Glossary - Common terms</h2>
 
 
-Questions
+<h3>Questions</h3>
 How	怎样	zên yãng	Bagaimana	Dim yong	Ahn zua
 How many/much	多少	düo shâo	Berapa (Banyak)	Gei door	Lua Zhui
 What	什么	shên mè	Apa	Mud yeah	Si mi
@@ -11,8 +11,8 @@ Who	谁	shuí	Siapa	Bin gor	Si mi lang / Siang
 Why	为什么	wèi shén mè	Mengapa	Dim gai	Ahn Zua
 
 
-Addressing People
-Pronouns
+<h3>Addressing People</h3>
+<h3>Pronouns</h3>
 I	我	wô	Saya	Ngo	Wa
 You	你	nî	Awak	Nei	Ler / Li
 He	他	tä 	Dia	Koi	Yi
@@ -20,7 +20,7 @@ She	她	tä 	Dia	Koi	Yi
 We	我们	wô mén	Kami	Ngo dei	Wa lang
 They	他们	tä mén	Mereka	Koi dei	Yi lang
 
-Family
+<h3>Family</h3>
 Family	家庭	jiä tíng	Keluarga	Gar teng	Geh teng
 Father	爸爸	bã bã	Bapa	Ba ba	Lao peh
 Mother	妈妈	mä mä 	Mak	Ma ma	Lao bu
@@ -34,7 +34,7 @@ Uncle	叔叔 / 伯伯	shð shð / bó bó 	Pakcik	Soak Soak / Bak Bak	Ah Ku / Ah
 Auntie	姑姑 / 阿姨	gð gð / ä yí 	Makcik	Ah Goo / Ah Yee	Ah Gor / Ah Yi
 Friends	朋友	péng yôu	Kawan	Pang Yau	Peng Yew
 
-Status
+<h3>Status</h3>
 Male	男	nán	Lelaki	Nam	Ta Por
 Female	女	nÛ 	Perempuan	Lui	Za Boh
 Single	未婚	wèi hðn	Bujang / Belum Kahwin	Mei Fen	Ah Bue Kao Yin
@@ -48,7 +48,7 @@ Alive	在生	zãi shën	Masih Hidup	Joi Sun	Wa
 Dead	去世	qù shì 	Dah Mati / Meninggal	Gor Sigh	Si
 
 
-Common Verbs
+<h3>Common Verbs</h3>
 Open	开	käi	Buka	Hoi	Kui
 Close	关	guän	Tutup	Son	Gnue
 Sit	坐	zuò 	Duduk	Chor	Jeh
@@ -95,7 +95,7 @@ Sleep	睡	shuì	Tidur	Fun Gao	Kun
 Walk	走	zôu	Jalan	Hung	Knia Lor
 Run	跑	pâo	Lari	Pao	Zao
 
-Adjectives
+<h3>Adjectives</h3>
 Hard	硬	yìng	Keras	Ngang	Deng
 Soft	软	ruân	Lembut	Yuen	Nerng
 
@@ -138,7 +138,7 @@ Worried	担心	dän xïn	Risau / Susah Hati	Dum Sum	Dum Xim
 Happy	高兴	gäo xìng	Gembira	Hoi Sum	Hwa Hee
 
 
-Nouns
+<h3>Nouns</h3>
 Colours / Shades
 Colour	颜色	yán sè	Warna	Arn Sek	Seg
 Black	黑	hëi	Hitam	Hak	Or
@@ -152,7 +152,7 @@ Grey	灰	huï 	Kelabu	Fui	Hui
 Dark	深	shën	Gelap	Sum	Or Or
 Pale	浅	qiân	Pucat	Cin	Beh Beh / Ciam
 
-Time
+<h3>Time</h3>
 Minute	分	fën	Minit	Fun	Hun Zeng
 Hour	钟头	zhöng tóu	Jam	Zhung Tau	Diam Zeng
 Day	天	tiän	Hari	Yat	Lid
@@ -182,7 +182,7 @@ Late	迟	chí	Lambat	Qi	Wnah
 Recent	最近	zhuì jìn	Baru-baru Ini	Zui Gun	Zhui Gun
 Long-standing	长期	cháng qï 	Dah Lama	Yat Lou Dou Yau 	Jin Gu
 
-Directions
+<h3>Directions</h3>
 Right	右	yòu	Kanan	Yau	Jia Chiu Beng
 Left	左	zuô 	Kiri	Zor	Doh Chiu Beng
 Centre	中间	zhöng jiän	Tengah	Zung Gun	Diong Hng
@@ -199,7 +199,7 @@ Up	上	shãng	Atas	Shiong 	Ki
 Down	下	xiã	Bawah	Lok	Loh
 Between	之间	zhï jiän	Di Antara	Ji Gun	Dui Diong
 
-Numbers
+<h3>Numbers</h3>
 One	一	yï 	Satu	Yat	Yi
 Two	二	èr	Dua	Yee	Di
 Three	三	sän	Tiga	Sum	Sna
@@ -216,7 +216,7 @@ Twenty	二十	èr shí 	Dua Puluh	Yee Sup	Di Chap
 Thirty	三十	sän shí	Tiga Puluh	Sum Sup	Sna Chap
 One Hundred	一百	yï bâi	Seratus	Yat Bak	Jit Ba
 
-Clothes
+<h3>Clothes</h3>
 Shirt	衣	yï	Baju	Sum	Sna
 Pants	裤	kù	Seluar	Foo	Kor
 Blouse	衣	yï	-	Sum	-
@@ -224,7 +224,7 @@ Skirt	裙子	qún zî	-	Kuen	Gun
 Dress	礼服	lî fú	-	Lie Fok	-
 Shoes	鞋子	xié zî 	Sepatu / Kasut	Hai	Wei
 
-Room and Furniture 
+<h3>Room and Furniture </h3>
 Bed	床	chuáng	Katil	Chong	Mng Cng
 Pillow	枕头	zhên tóu	Bantal	Zum Tau	Jin Tau
 Chair	椅子	yî zî 	Kerusi	Deng	Gao Yi
