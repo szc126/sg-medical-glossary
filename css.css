@@ -1,0 +1,25 @@
+dl:empty {
+	border-top: 1px solid black;
+	max-width: 10em;
+	margin: auto;
+}
+
+[lang]:after {
+	content: " [" attr(lang) "]";
+	color: green;
+	opacity: 0.75;
+	font-family: monospace;
+	float: right;
+}
+
+:lang(en), :lang(ms), :lang(nan) {
+	background: rgba(0, 0, 0, 0.03);
+}
+
+[lang$=OLD] {
+	text-indent: 2em;
+}
+
+dd:empty:before {
+	content: "\a0"; /* nbsp */
+}
